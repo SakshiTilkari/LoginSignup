@@ -13,7 +13,7 @@
 - Background Image: A common background image is used across the pages to enhance the overall look and feel of the app.
 
 
-##Limitations
+## Limitations
 - Currently, the email and password are not saved persistently (beyond the session). You can enter any email and password, and they will not be validated against a real database.
   
 
