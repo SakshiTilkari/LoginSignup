@@ -11,6 +11,7 @@
 - Password Strength Indicator: Implemented to give users feedback on their password strength during Sign Up.
 - Remember Me: A checkbox added to the Login form that saves the email in local storage, improving UX by remembering the user.
 - Background Image: A common background image is used across the pages to enhance the overall look and feel of the app.
+- Custom Buttons: Created custom styled buttons for both forms, ensuring consistency in design and improving the overall user experience.
 
 
 ## Limitations
